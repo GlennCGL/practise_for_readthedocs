@@ -6,8 +6,6 @@
 Welcome to practise_for_readthedocs's documentation!
 ====================================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
    :glob:
@@ -15,10 +13,13 @@ Contents:
    new_page
    dir
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Second
+   
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
